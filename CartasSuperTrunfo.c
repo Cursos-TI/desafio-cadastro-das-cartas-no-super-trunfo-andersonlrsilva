@@ -149,7 +149,14 @@ densidade2 + pibpercapt2;
 
 
     //comparação das cartas
-    
+    //População
+    printf("População: %d\n", populacao > populacao2);
+    printf("Area: %d\n", area > area2);
+    printf("Pib: %d\n", pib > pib2);
+    printf("Pontos turisticos: %d\n", pontotur > pontotur2);
+    printf("Densidade popilacional: %d\n", densidade < densidade2);
+    printf("Pib per capita: %d\n", pibpercapt > pibpercapt2);
+    printf("Super poder: %d\n", super > super2);
 
 
 
